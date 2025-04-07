@@ -1,6 +1,9 @@
-# Pendulum Simulation with Forces and Acceleration – Physics Assignment 🎓🌀
+# Pendulum Simulation with Forces and Acceleration – Physics Assignment
 
 This project is a physics visualization created using the [Manim](https://www.manim.community/) (Mathematical Animation Engine) library. It simulates a **simple pendulum** and visually demonstrates the key forces and acceleration components acting on the pendulum bob at various points in time.
+
+[Watch the created pendulum animation](https://drive.google.com/file/d/1ThceTfiL9IyrvGR738hbB4kxWBJNjYBP/view?usp=sharing)
+
 
 ## Features
 
