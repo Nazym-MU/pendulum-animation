@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/nazymzhiyengaliyeva/Desktop/Web Projects/physics/media/videos/pendulum/1680p15/partial_movie_files/PendulumScene/1349945508_3796269205_1009663997.mp4'
+file 'file:/Users/nazymzhiyengaliyeva/Desktop/Web Projects/physics/media/videos/pendulum/1680p15/partial_movie_files/PendulumScene/3139582993_4217992463_2244816523.mp4'
